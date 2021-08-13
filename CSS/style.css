@@ -564,10 +564,12 @@ footer span{
     color: var(--mainColor);
     transition: 0.5s;
 }
-footer a:hover{
+.footer-icon a:hover{
     font-size: 20px;
 }
-
+.COPYRIGHT  a:hover{
+    font-size: 20px;
+}
 
 
 
